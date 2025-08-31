@@ -1,0 +1,8 @@
+index,success,solve_status,eff_bat_percent,eff_ldes_percent,total_cost,total_emissions,network_file
+0,True,ok,90,70,10634458991.240278,39433087.42674591,./sensitive_analyse\round_trip_efficiency\network_files\network_mc_bat90ldes70.nc
+1,True,ok,90,60,10637994591.422977,39457751.88037973,./sensitive_analyse\round_trip_efficiency\network_files\network_mc_bat90ldes60.nc
+2,True,ok,90,50,10637309537.753386,39481064.588019066,./sensitive_analyse\round_trip_efficiency\network_files\network_mc_bat90ldes50.nc
+3,True,ok,90,40,10640280077.865314,39502677.01064657,./sensitive_analyse\round_trip_efficiency\network_files\network_mc_bat90ldes40.nc
+4,True,ok,80,70,10651098248.976517,39541209.98959262,./sensitive_analyse\round_trip_efficiency\network_files\network_mc_bat80ldes70.nc
+5,True,ok,70,70,10682564106.264269,39593704.91620068,./sensitive_analyse\round_trip_efficiency\network_files\network_mc_bat70ldes70.nc
+6,True,ok,70,40,10689467155.60455,39667072.00466699,./sensitive_analyse\round_trip_efficiency\network_files\network_mc_bat70ldes40.nc

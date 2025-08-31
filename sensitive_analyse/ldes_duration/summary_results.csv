@@ -1,0 +1,13 @@
+LDES duration (day),success,solve_status,total_cost,total_emissions,network_file
+1,True,ok,10638595755.879944,39497071.850679085,./sensitive_analyse\ldes_duration\network_files\network_mc_001.nc
+2,True,ok,10637631096.068998,39464204.77562693,./sensitive_analyse\ldes_duration\network_files\network_mc_002.nc
+3,True,ok,10637433962.991652,39460958.562350154,./sensitive_analyse\ldes_duration\network_files\network_mc_003.nc
+4,True,ok,10636507016.612991,39447642.25207515,./sensitive_analyse\ldes_duration\network_files\network_mc_004.nc
+5,True,ok,10635548229.50967,39445452.99717334,./sensitive_analyse\ldes_duration\network_files\network_mc_005.nc
+7,True,ok,10635823720.697107,39444423.483804196,./sensitive_analyse\ldes_duration\network_files\network_mc_007.nc
+14,True,ok,10635118432.340334,39436868.58176258,./sensitive_analyse\ldes_duration\network_files\network_mc_014.nc
+30,True,ok,10634955282.495594,39435853.30077896,./sensitive_analyse\ldes_duration\network_files\network_mc_030.nc
+61,True,ok,10634647654.065474,39433897.69776093,./sensitive_analyse\ldes_duration\network_files\network_mc_061.nc
+92,True,ok,10634559891.93232,39433307.417880945,./sensitive_analyse\ldes_duration\network_files\network_mc_092.nc
+183,True,ok,10634458991.240278,39433087.42674591,./sensitive_analyse\ldes_duration\network_files\network_mc_183.nc
+365,True,ok,10634458991.240276,39433087.42674591,./sensitive_analyse\ldes_duration\network_files\network_mc_365.nc
