@@ -1,4 +1,4 @@
-# CEF_code — Assess temporal, spatial, and technological factors for energy storage induced whole-system cost and emission
+# CEF_code — Energy system whole-system cost-emission impact: trade-off or co-benefits
 
 This project runs a full workflow on PyPSA networks in four stages:
 
